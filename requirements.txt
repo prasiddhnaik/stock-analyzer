@@ -1,7 +1,7 @@
 # Stock Analysis Project Dependencies
 # Install with: pip install -r requirements.txt
 
-alpaca-py>=0.21.0
+alpaca-py>=0.43.3
 pandas>=2.0.0
 numpy>=1.24.0
 scipy>=1.11.0
