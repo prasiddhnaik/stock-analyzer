@@ -11,7 +11,7 @@ plotly>=5.18.0
 streamlit>=1.30.0
 rich>=13.0.0
 pyarrow>=14.0.0
-python-dotenv>=1.0.0
+python-dotenv>=1.2.2
 
 # FastAPI Backend
 fastapi>=0.109.0
